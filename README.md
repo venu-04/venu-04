@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋, I'm Venu
 
-<!--
-**venu-04/venu-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+A Passionate Learner and FULL Stack Developer
+
+
+
+
+
+
+
+
+
+
+
+- 🔭 Currently enhancing my skills by developing a Paytm Wallet application, focusing on secure transactions and real-time data processing.
+- 🌱 I’m actively perfecting my full-stack development skills through challenging projects and in-depth learning experiences.
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 I have successfully completed MERN Stack and am actively working on exciting projects.
+- 👯 Open to collaborative projects and professional opportunities.
+- 📫 Feel Free to Contact Me at [kamsuvenu2004@gmail.com](mailto:kamsuvenu2004@gmail.com)
+

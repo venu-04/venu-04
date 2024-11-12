@@ -2,7 +2,7 @@
 
 
 
-A Passionate Learner and FULL Stack Developer
+A Passionate Learner 
 
 
 

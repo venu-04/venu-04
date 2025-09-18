@@ -13,8 +13,7 @@ A Passionate Learner | Full-Stack Developer
 
 ### GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=venu-04&color=blue)  
-![GitHub Followers](https://img.shields.io/github/followers/venu-04?label=Followers&style=social)  
-![GitHub Watchers](https://img.shields.io/github/watchers/venu-04?style=social)  
+![GitHub Followers](https://img.shields.io/github/followers/venu-04?label=Followers&style=social)   
 ![GitHub Stars](https://img.shields.io/github/stars/venu-04?style=social)
 
 ---
@@ -44,7 +43,7 @@ A Passionate Learner | Full-Stack Developer
 ---
 
 ### 📈 Let's Connect
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/venu-04)  
+- LinkedIn: [https://www.linkedin.com/in/kamsu-venu/](https://www.linkedin.com/in/kamsu-venu/)  
 - Email: kamsuvenu2004@gmail.com  
 - GitHub: [https://github.com/venu-04](https://github.com/venu-04)
 
